@@ -1,0 +1,28 @@
+{
+  "name": "du4e-express-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dU4E/du4e-express-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dU4E/du4e-express-server/issues"
+  },
+  "homepage": "https://github.com/dU4E/du4e-express-server#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.1",
+    "ethereumjs-util": "^6.1.0",
+    "ethereumjs-wallet": "^0.6.3",
+    "ethers": "^4.0.27",
+    "express": "^4.17.0",
+    "web3": "^1.0.0-beta.55"
+  }
+}
